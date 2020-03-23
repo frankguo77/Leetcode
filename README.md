@@ -1,7 +1,7 @@
 # Leetcode
 
 | #|Title|python|
-|---| -----  | ---------- | 
+|---| -----  | ---------- |
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/Guess-Number-Higher-or-Lower)|[python](./Python/374_Guess%20Number%20Higher%20or%20Lower.py)
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/Guess-Number-Higher-or-Lower-II)|[python](./Python/375_Guess%20Number%20Higher%20or%20Lower%20II.py)
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/Insert-Delete-GetRandom-O(1)-Duplicates-allowed)|[python](./Python/381_Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.py)
